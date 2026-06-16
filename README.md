@@ -1,5 +1,5 @@
 # Kena
-Un bot de música [Web](https://kenabot.xyz)
+Un bot de música [Web](https://kena.bot)
 
 
 
